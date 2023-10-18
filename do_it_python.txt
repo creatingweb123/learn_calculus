@@ -1,0 +1,14 @@
+데이타 사이언스 독학을 하면서 수련할 할 사이트를 소개합니다.
+[점프 투 파이썬]!(https://wikidocs.net/)
+[코딩 도장]!(https://dojang.io/)
+[판다스 10분 완성]!(https://dataitgirls2.github.io/10minutes2pandas/)
+[구글 콜라보라토리]!(https://colab.research.google.com/)
+수련하다 막히면 찾아가는 사이트를 소개합니다.
+[파이썬 공식 한글 자습서]!(https://docs.python.org/ko/3/tutorial/index.html/)
+[데이타 사이언스 스쿨]!(https://datascienceschool.net/)
+하산을 준비하고 공식 검은띠를 따려면
+[구글 머신러닝 단기집중과정]!(https://developers.google.com/machine-learning/crash-course/prereqs-and-prework/)
+[캐글]!(https://www.kaggle.com/)
+중도 포기하고 돌아서다 미련이 남으면...
+google님과 youtube님에게 기대시길 바랍니다.
+[파이썬 컨닝 페이퍼]!(https://programmingwithmosh.com/python/python-3-cheat-sheet/)
